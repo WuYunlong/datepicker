@@ -1,0 +1,15 @@
+{
+  "name": "datepicker",
+  "homepage": "https://github.com/WuYunlong/datepicker",
+  "version": "1.0.0",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "a9bf57472573a1350c20dbc9eb1ea9e42b781d46"
+  },
+  "_source": "https://github.com/WuYunlong/datepicker.git",
+  "_target": "^1.0.0",
+  "_originalSource": "https://github.com/WuYunlong/datepicker.git",
+  "_direct": true
+}
